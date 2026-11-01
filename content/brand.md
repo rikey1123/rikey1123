@@ -10,7 +10,8 @@ Shared source of truth for every content agent. Built from the owner's handover 
 - Email: SEVENTN04@outlook.com
 
 ## Launch: the 17:04 Drop
-**Wednesday 4 November 2026 at 17:04 SAST.** Everything before then is countdown and teaser content.
+**Wednesday 4 November 2026 at 17:04 SAST. The Duality only.** Everything before then is Duality countdown and teaser content.
+The Mixd, Croc Effect, The Merveille and The Muse launch later (dates to confirm). Do not post or promote them until the owner sets their drop.
 Hashtag set: `#SEVNTN04 #1704Drop #TimetoShop #CapeTownFashion #SAFashion #QuietLuxury` + product tag.
 
 ## Products (live Shopify, 1 Nov 2026)
